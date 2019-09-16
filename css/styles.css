@@ -1,12 +1,12 @@
 body {
-    background: url("/images/alkemia.jpeg");
+    background-image: url("../images/alkemia.jpeg");
     background-repeat: no-repeat;
     background-position: center;
     
 }
 
 title { 
-    text-align: center;
+    text-align: center;   
 }
 
 h1 {
