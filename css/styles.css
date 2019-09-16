@@ -1,0 +1,55 @@
+body {
+    background-image: url("/home/charles/Documents/Moringa-prep/ALKEMIA/images/ALKEMIA.jpeg");
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+
+title { 
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+ font-family: 'Courier New', Courier, monospace;
+    font-style: normal;
+}
+
+
+.intro{
+      border: 1px solid black;
+      padding: 3px;
+      max-width: 300px;
+      max-height:100px 
+      ;
+}
+
+.bio{
+    border: 1px solid black;
+    padding: 3px;
+    max-width: 300px;
+}
+
+
+.companymeaning{
+    border: 1px solid black;
+    /* padding: 2px; */
+    margin: 3px 3px 3px 3px;
+    max-width: 300px;
+}
+
+
+.companyvalues{
+    border: 1px solid black;
+    margin: 32px 3px 3px 3px;
+    max-width: 320px;
+    width: 23.5%;
+    max-height:200px ;
+}
+
+
+.my-grid-1,.my-grid-2{
+    position: relative;
+    display:flex;
+    justify-content: space-between;
+}
